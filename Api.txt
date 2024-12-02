@@ -1,0 +1,1306 @@
+
+"status": "ok",
+"totalResults": 5393,
+-"articles": [
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Dan DeFrancesco",
+"title": "The world reacts to Donald Trump's latest trade plans",
+"description": "Donald Trump's new trade proposals target China, Mexico, and Canada.",
+"url": "https://www.businessinsider.com/trumps-latest-trade-plans-consumer-price-hike-negotiation-tactic-2024-11",
+"urlToImage": "https://i.insider.com/674706619f2901eb603738cb?width=700&format=jpeg",
+"publishedAt": "2024-11-27T13:42:56Z",
+"content": "Brandon Bell/Getty Images\r\n<ul><li>This post originally appeared in the Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>Happy quasi-Friday! If… [+7782 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+"title": "What's New With Palantir Stock?",
+"description": "Palantir Technologies stock (NASDAQ: PLTR) has had a solid run, rising by almost 4x since the beginning of the year to about $66 presently.",
+"url": "https://www.forbes.com/sites/greatspeculations/2024/11/27/whats-new-with-palantir-stock/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67471ed0bda1a78fc061bcb9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-11-27T13:31:11Z",
+"content": "POLAND - 2024/11/21: In this photo illustration, the Palantir company logo is seen displayed on a ... [+] smartphone screen. (Photo Illustration by Piotr Swat/SOPA Images/LightRocket via Getty Images… [+4891 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Tom Carter",
+"title": "Tesla and BYD are gearing up for another round in China's brutal EV battle",
+"description": "Elon Musk's EV maker and BYD are asking suppliers to cut prices and rolling out discounts as they brace for another round in China's brutal EV battle.",
+"url": "https://www.businessinsider.com/tesla-byd-china-ev-battle-prices-discounts-elon-musk-2024-11",
+"urlToImage": "https://i.insider.com/674700d9ede4eeae3929e64b?width=1200&format=jpeg",
+"publishedAt": "2024-11-27T13:23:52Z",
+"content": "BYD has reported booming sales this year.Leonhard Simon/Getty Images\r\n<ul><li>China's brutal EV battle shows no signs of letting up.</li><li>BYD is asking suppliers to cut prices and Tesla is rolling… [+2694 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Investing.com",
+"title": "Lincoln educational services EVP sells $164,620 in stock",
+"description": "Lincoln educational services EVP sells $164,620 in stock",
+"url": "https://www.investing.com/news/insider-trading-news/lincoln-educational-services-evp-sells-164620-in-stock-93CH-3744400",
+"urlToImage": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg",
+"publishedAt": "2024-11-27T13:19:36Z",
+"content": "Chad D. Nyce, the Executive Vice President and Chief Innovation Officer at Lincoln Educational Services Corp (NASDAQ:LINC), recently sold a portion of his holdings in the company. According to a fili… [+3311 chars]"
+},
+-{
+-"source": {
+"id": "abc-news",
+"name": "ABC News"
+},
+"author": "JOSH JACQUOT EDMUNDS Associated Press",
+"title": "Edmunds: The longest-range EVs you can buy for under $50,000",
+"description": "Electric vehicles make people nervous",
+"url": "https://abcnews.go.com/Business/wireStory/edmunds-longest-range-evs-buy-50000-116268718",
+"urlToImage": "https://i.abcnewsfe.com/a/f66d03cd-5c3d-41f6-adf8-cbdb8f934e2b/wirestory_bbcb751c9d0be8dbed620b2187f3d688_16x9.jpg?w=1600",
+"publishedAt": "2024-11-27T13:10:25Z",
+"content": "Electric vehicles are growing in popularity but still make up a small percentage of total car sales. More than two decades of vehicle and infrastructure development have yielded only a 6.8% market sh… [+3931 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "JOSH JACQUOT",
+"title": "Edmunds: The longest-range EVs you can buy for under $50,000",
+"description": "Electric vehicles are growing in popularity but still make up a small percentage of total car sales.  More than two decades of vehicle and infrastructure...",
+"url": "https://finance.yahoo.com/news/edmunds-longest-range-evs-buy-125729428.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/Mzd9k7UygYfYcGtcQTm7yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/f511152ba02189b7d24d7b7e5ab592c6",
+"publishedAt": "2024-11-27T12:57:29Z",
+"content": "Electric vehicles are growing in popularity but still make up a small percentage of total car sales. More than two decades of vehicle and infrastructure development have yielded only a 6.8% market sh… [+4052 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-11-27T12:57:29Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Arduino.cc"
+},
+"author": "Arduino Team",
+"title": "It’s silver, it’s green, it’s the Batteryrunner! An Arduino-powered, fully custom, electric car",
+"description": "Inventor Charly Bosch and his daughter Leonie have crafted something truly remarkable: a fully electric, Arduino-powered car that’s as innovative as it is sustainable. Called the Batteryrunner, this car is designed with a focus on environmental impact, simpli…",
+"url": "https://blog.arduino.cc/2024/11/27/its-silver-its-green-its-the-batteryrunner-an-arduino-powered-fully-custom-electric-car/",
+"urlToImage": "https://blog.arduino.cc/wp-content/uploads/2024/11/Batteryrunner_6.jpeg",
+"publishedAt": "2024-11-27T12:45:57Z",
+"content": "Inventor Charly Bosch and his daughter Leonie have crafted something truly remarkable: a fully electric, Arduino-powered car thats as innovative as it is sustainable. Called the Batteryrunner, this c… [+4643 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Forbes Wealth Team, Forbes Staff, \n Forbes Wealth Team, Forbes Staff\n https://www.forbes.com/sites/forbeswealthteam/",
+"title": "Elon Musk’s Money: How He Made It And Spends It",
+"description": "Here’s a deep dive into Musk’s record breaking net worth including a detailed breakdown of all his assets from Tesla to Neuralink.",
+"url": "https://www.forbes.com/sites/forbeswealthteam/article/elon-musk-definitive-guide/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67463afedc3f9879f993cf9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-11-27T12:35:05Z",
+"content": "CEO of Tesla, SpaceX and xAI\r\nNo. 1\r\nRank on 2024 Forbes 400 List \r\n$334 B\r\nNet Worth as of November 22, 2024\r\nAGE: 53 | SOURCE OF WEALTH: TESLA, SPACEX |SELF-MADE SCORE: 8/10 |RESIDENCE: AUSTIN, TEX… [+18119 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "2 bullish charts showing how Block is breaking out post-election",
+"description": "Listen and subscribe to Stocks in Translation on Apple Podcasts, Spotify, or wherever you find your favorite podcasts.\nStocks roared last week, with small caps resuming and leading the post-election rally. The poster child of the Trump trade, Tesla (TSLA), is…",
+"url": "https://biztoc.com/x/f3e5b174506887a2",
+"urlToImage": "https://biztoc.com/cdn/f3e5b174506887a2_s.webp",
+"publishedAt": "2024-11-27T12:18:49Z",
+"content": "Listen and subscribe to Stocks in Translation on Apple Podcasts, Spotify, or wherever you find your favorite podcasts.Stocks roared last week, with small caps resuming and leading the post-election r… [+148 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "Maye Musk talks about Elon and Trump like they're toddlers on a playdate: 'They just seem to be having fun'",
+"description": "Tesla CEO Elon Musk has been spending a lot of time with Donald Trump following his election win.\nJeff Bottari/Zuffa LLC\nElon Musk's mother talks about his friendship with Donald Trump like they're kids on a playdate.\nThe world's richest man and the incoming …",
+"url": "https://biztoc.com/x/c7c993ba904a37ad",
+"urlToImage": "https://biztoc.com/cdn/808/og.png",
+"publishedAt": "2024-11-27T12:18:20Z",
+"content": "Tesla CEO Elon Musk has been spending a lot of time with Donald Trump following his election win.Jeff Bottari/Zuffa LLCElon Musk's mother talks about his friendship with Donald Trump like they're kid… [+148 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Theron Mohamed",
+"title": "Maye Musk talks about Elon and Trump like they're toddlers on a playdate: 'They just seem to be having fun'",
+"description": "It's \"nice for both of them to have fun,\" Elon Musk's mother Maye said of the bromance between the world's richest person and the president-elect.",
+"url": "https://www.businessinsider.com/maye-musk-elon-musk-donald-trump-friendship-fun-politics-mother-2024-11",
+"urlToImage": "https://i.insider.com/67470055ede4eeae3929e635?width=1200&format=jpeg",
+"publishedAt": "2024-11-27T12:12:19Z",
+"content": "Tesla CEO Elon Musk has been spending a lot of time with Donald Trump following his election win.Jeff Bottari/Zuffa LLC\r\n<ul><li>Elon Musk's mother talks about his friendship with Donald Trump like t… [+3088 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Securityaffairs.com"
+},
+"author": "Pierluigi Paganini",
+"title": "Operation Serengeti: INTERPOL arrested 1,006 suspects in 19 African countries",
+"description": "Operation Serengeti: INTERPOL arrested 1,006 suspects in 19 African countries and dismantled 134,089 malicious networks. A joint law enforcement operation by INTERPOL and AFRIPOL across 19 African countries, dubbed Operation Serengeti, led to the arrest of 1,…",
+"url": "https://securityaffairs.com/171462/cyber-crime/operation-serengeti-interpol.html",
+"urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/11/image-35-1024x576.png",
+"publishedAt": "2024-11-27T12:07:28Z",
+"content": "Operation Serengeti: INTERPOL arrested 1,006 suspects in 19 African countries\r\n | Russian group RomCom exploited Firefox and Tor Browser zero-days to target attacks Europe and North America\r\n | The s… [+119360 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Jared Blikre",
+"title": "2 bullish charts showing how Block is breaking out post-election",
+"description": "Technical patterns don't only measure prices, they measure belief.",
+"url": "https://finance.yahoo.com/news/2-bullish-charts-showing-how-block-is-breaking-out-post-election-120051884.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/WCvXQcQsgge.qq08Af4iCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/d8186f70-ac3c-11ef-a9f9-028206b63545",
+"publishedAt": "2024-11-27T12:00:51Z",
+"content": "Listen and subscribe to Stocks in Translation on Apple Podcasts, Spotify, or wherever you find your favorite podcasts.\r\nStocks roared last week, with small caps resuming and leading the post-election… [+4445 chars]"
+},
+-{
+-"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "ET Online",
+"title": "Elon Musk is not happy with Microsoft's gaming division, shares complaint with CEO Satya Nadella",
+"description": "Elon Musk accused Microsoft's gaming division of discriminatory hiring practices after podcaster Ian Miles Cheong alleged they excluded white men.  Cheong cited an art director's social media posts as evidence, while Musk also referenced a past incident invol…",
+"url": "https://economictimes.indiatimes.com/news/international/global-trends/elon-musk-is-not-happy-with-microsofts-gaming-division-shares-complaint-with-ceo-satya-nadella/articleshow/115733949.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-115733898,width-1200,height-630,imgsize-1571216,overlay-economictimes/articleshow.jpg",
+"publishedAt": "2024-11-27T11:48:30Z",
+"content": "World's richest man and CEO of Tesla, Elon Musk, has taken up podcaster Ian Miles Cheong's complaint of Microsoft to Indian-origin CEO Satya Nadella. Elon Musk was reacting to a series of posts share… [+2300 chars]"
+},
+-{
+-"source": {
+"id": "fortune",
+"name": "Fortune"
+},
+"author": "Andrew Nusca",
+"title": "Intel wins $7.9 billion award under CHIPS Act",
+"description": "Plus: Bitcoin record, Starlink approval, Google tweaks in the latest edition of Fortune's flagship tech newsletter.",
+"url": "https://fortune.com/2024/11/27/intel-wins-7-9-billion-award-under-chips-act/",
+"urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-2155355809-e1732708005332.jpg?resize=1200,600",
+"publishedAt": "2024-11-27T11:47:09Z",
+"content": "Good morning. Lean and mean today, just like a turkey. If you celebrate, Happy Thanksgiving to you and yours. Andrew NuscaP.S. That means were off tomorrow for the holiday. Colleagues David Meyer and… [+6072 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "TechSpot"
+},
+"author": "Skye Jacobs",
+"title": "Study shows Tesla has the highest fatal accident rate of any car brand",
+"description": "Tesla's long-standing reputation for producing the safest vehicles on the road has been called into question by a recent study from auto research firm iSeeCars. The report reveals that Tesla vehicles have the highest rate of fatal accidents among all car bran…",
+"url": "https://www.techspot.com/news/105731-study-shows-tesla-has-highest-fatal-accident-rate.html",
+"urlToImage": "https://www.techspot.com/images2/news/bigimage/2024/11/2024-11-26-image-30.jpg",
+"publishedAt": "2024-11-27T11:15:00Z",
+"content": "The big picture: While Tesla has yet to respond to the iSeeCars report, regulators and consumers will closely watch the company's next moves. As autonomous and semi-autonomous vehicles become more pr… [+3443 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Reuters",
+"title": "Trump's budget plans push US government lawyers to private sector",
+"description": "Trump's budget plans push US government lawyers to private sector",
+"url": "https://www.investing.com/news/world-news/trumps-budget-plans-push-us-government-lawyers-to-private-sector-3743962",
+"urlToImage": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+"publishedAt": "2024-11-27T11:07:23Z",
+"content": "By David Thomas\r\n(Reuters) - Rank-and-file attorneys in the federal government fear major budget cuts when President-elect Donald Trump assumes office and are hunting for private-sector jobs in unusu… [+4384 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Research and Markets",
+"title": "Solar Batteries Global Market Overview Report 2024-2030: Lithium-Ion Batteries Cement Top Spot in Solar Applications Due to High Energy Density and Cost Efficiency Driving Opportunities",
+"description": "This global report on Solar Batteries analyzes the market based on type and end-use sector. In addition to providing profiles of major companies operating in this space, the latest corporate and industrial developments have been covered to offer a clear panor…",
+"url": "https://www.globenewswire.com/news-release/2024/11/27/2988042/28124/en/Solar-Batteries-Global-Market-Overview-Report-2024-2030-Lithium-Ion-Batteries-Cement-Top-Spot-in-Solar-Applications-Due-to-High-Energy-Density-and-Cost-Efficiency-Driving-Opportuni.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+"publishedAt": "2024-11-27T10:39:00Z",
+"content": "Dublin, Nov. 27, 2024 (GLOBE NEWSWIRE) -- The \"Solar Batteries - A Global Market Overview\" report has been added to ResearchAndMarkets.com's offering.\r\nThe global Solar Batteries market is estimated … [+5623 chars]"
+},
+-{
+-"source": {
+"id": "newsweek",
+"name": "Newsweek"
+},
+"author": "Flynn Nicholls",
+"title": "Would Marc Cuban Buy MSNBC? Billionaire Reacts",
+"description": "Comcast has denied that it will sell MSNBC as part of a corporate restructure, but Elon Musk has shown interest in buying it.",
+"url": "https://www.newsweek.com/would-marc-cuban-buy-msnbc-billionaire-reacts-elon-musk-1991930",
+"urlToImage": "https://d.newsweek.com/en/full/2530567/mark-cuban.jpg",
+"publishedAt": "2024-11-27T10:20:02Z",
+"content": "Democrat billionaire Marc Cuban has been asked if he would like to buy news network MSNBC, after the world's richest man, Elon Musk, showed an interest.\r\nAnd his answer was not at all encouraging for… [+3827 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Securityaffairs.com"
+},
+"author": "Pierluigi Paganini",
+"title": "How DSPM Helps Businesses Meet Compliance Requirements",
+"description": "Data Security Posture Management (DSPM) helps monitor, secure, and ensure compliance for sensitive data, reducing risks across diverse environments. Complying with cybersecurity regulations can be a source of great pain for organizations, especially those tha…",
+"url": "https://securityaffairs.com/171457/security/how-dspm-helps-businesses-meet-compliance-requirements.html",
+"urlToImage": "https://securityaffairs.com/wp-content/uploads/2013/12/Cyber-Security-2.jpg",
+"publishedAt": "2024-11-27T09:49:42Z",
+"content": "Russian group RomCom exploited Firefox and Tor Browser zero-days to target attacks Europe and North America\r\n | The source code of Banshee Stealer leaked online\r\n | U.S. CISA adds Array Networks AG a… [+119278 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "NDTV News"
+},
+"author": "NDTV News Desk",
+"title": "Inside 'Force One': Trump's Granddaughter's Lavish Journey To SpaceX Event",
+"description": "Donald Trump&#039;s granddaughter, Kai, has offered a rare glimpse inside the US President-elect&#039;s private jet, Force One.",
+"url": "https://www.ndtv.com/world-news/inside-force-one-trumps-granddaughters-lavish-journey-to-spacex-event-7116161",
+"urlToImage": "https://c.ndtvimg.com/2024-11/o2v08aig_kai-trump-vlog_625x300_27_November_24.jpeg",
+"publishedAt": "2024-11-27T09:34:47Z",
+"content": "Donald Trump's granddaughter, Kai, has offered a rare glimpse inside the US President-elect's private jet, Force One. In her latest YouTube vlog, the 17-year-old documented how she travelled to witne… [+2120 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Tech Xplore"
+},
+"author": "DAVID McHUGH, ALEXA ST. JOHN, KEN MORITSUGU",
+"title": "After fast start, electric cars need a recharge as range limits, cost leave some drivers skeptical",
+"description": "While sales of electric vehicles surge in China, adoption of more environmentally friendly vehicles is stumbling in the United States and Europe as carmakers and governments struggle to meet years-old promises about affordability and charging stations.",
+"url": "https://techxplore.com/news/2024-11-fast-electric-cars-recharge-range.html",
+"urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/after-fast-start-elect.jpg",
+"publishedAt": "2024-11-27T09:28:33Z",
+"content": "by DAVID McHUGH, ALEXA ST. JOHN and KEN MORITSUGU While sales of electric vehicles surge in China, adoption of more environmentally friendly vehicles is stumbling in the United States and Europe as c… [+7806 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Realinvestmentadvice.com"
+},
+"author": "Michael Lebowitz and Lance Roberts",
+"title": "Leverage And Speculation: Signs Of A Raging Bull Market",
+"description": "In a recent Commentary- MicroStrategy Is A Leveraged ETF In Disguise – we discussed the company’s business model, which revolves almost entirely around highly speculative bitcoin and leverage. To wit: So, what is MicroStrategy? It’s a leveraged Bitcoin fund d…",
+"url": "https://realinvestmentadvice.com/resources/blog/leverage-and-speculation-signs-of-a-raging-bull-market/",
+"urlToImage": "https://realinvestmentadvice.com/wp-content/uploads/2024/04/730_x_410_Daily_Market_Commentary_Header.png",
+"publishedAt": "2024-11-27T09:12:00Z",
+"content": "In a recent Commentary- MicroStrategy Is A Leveraged ETF In Disguise – we discussed the company’s business model, which revolves almost entirely around highly speculative bitcoin and leverage. To wit… [+5079 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Research and Markets",
+"title": "U.S. Lead Acid Battery Market Report 2025-2030, Featuring Profiles of EnerSys, C&D Technologies, Crown Battery, NorthStar, Johnson Controls, B.B. Battery, Panasonic, Exide Technologies & CSB Battery",
+"description": "Analysis Report by Product (SLI, Stationary), Construction (Flooded, VRLA), Application (Automotive, Telecom, Transport Vehicles) and Segment Forecasts, 2025-2030 Analysis Report by Product (SLI, Stationary), Construction (Flooded, VRLA), Application (Automot…",
+"url": "https://www.globenewswire.com/news-release/2024/11/27/2987988/28124/en/U-S-Lead-Acid-Battery-Market-Report-2025-2030-Featuring-Profiles-of-EnerSys-C-D-Technologies-Crown-Battery-NorthStar-Johnson-Controls-B-B-Battery-Panasonic-Exide-Technologies-CSB-B.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+"publishedAt": "2024-11-27T09:03:00Z",
+"content": "Dublin, Nov. 27, 2024 (GLOBE NEWSWIRE) -- The \"U.S. Lead Acid Battery Market Size, Share &amp; Trends Analysis Report by Product (SLI, Stationary), Construction (Flooded, VRLA), Application (Automoti… [+7262 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Ana Altchek,Ayelet Sheffey,Juliana Kaplan,Geoff Weiss",
+"title": "Government workers on the prospect of DOGE-fueled layoffs: 'It kind of feels like we're being villainized'",
+"description": "Some federal workers are worried, some are optimistic, and most are considering their other career options, said 10 who spoke with BI.",
+"url": "https://www.businessinsider.com/doge-government-efficiency-elon-musk-cuts-worry-federal-workers-layoffs-2024-11",
+"urlToImage": "https://i.insider.com/6744e9a49f2901eb6036c5f9?width=1200&format=jpeg",
+"publishedAt": "2024-11-27T09:01:01Z",
+"content": "Getty Images; Jenny Chang-Rodriguez/BI\r\n<ul><li>Trump's new DOGE commission, tasked with cutting spending, has floated laying off federal workers.</li><li>Government employees told BI they're prepari… [+8234 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-11-27T09:00:51Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": "fortune",
+"name": "Fortune"
+},
+"author": "Danny Lee, Bloomberg",
+"title": "Leaked BYD letter signals China EV price war is set to intensify",
+"description": "A screen shot of an email purportedly BYD was circulating on social media Wednesday, demanding 10% price cuts from an unnamed supplier.",
+"url": "https://fortune.com/asia/2024/11/27/leaked-byd-letter-signals-china-ev-price-war-is-set-to-intensify/",
+"urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-2181378256-e1732696883734.jpg?resize=1200,600",
+"publishedAt": "2024-11-27T08:43:34Z",
+"content": "BYD Co. has asked suppliers to accept price cuts next year in a signal the Chinese electric vehicle maker is preparing for the brutal price war in the worlds biggest auto market to intensify. A scree… [+1705 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "seekingalpha.com",
+"title": "Brookfield: The Trump Trade Nobody's Talking About",
+"description": "Lately, investors have seemingly been heavily trading based on their notions of what Donald Trump will or won’t do when in office. This notion\nSummary\n- Lately, investors have been pouring money into stocks seen as gaining from the incoming U.S. administratio…",
+"url": "https://biztoc.com/x/38656d47a47a0cfd",
+"urlToImage": "https://biztoc.com/cdn/38656d47a47a0cfd_s.webp",
+"publishedAt": "2024-11-27T08:39:35Z",
+"content": "Lately, investors have seemingly been heavily trading based on their notions of what Donald Trump will or wont do when in office. This notionSummary- Lately, investors have been pouring money into st… [+146 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Securityaffairs.com"
+},
+"author": "Pierluigi Paganini",
+"title": "Russian group RomCom exploited Firefox and Tor Browser zero-days to target attacks Europe and North America",
+"description": "The Russian RomCom group exploited Firefox and Tor Browser zero-day vulnerabilities in attacks on users in Europe and North America. Russian-based cybercrime group RomCom (aka UAT-5647, Storm-0978, Tropical Scorpius, UAC-0180, UNC2596) exploited two Firefox a…",
+"url": "https://securityaffairs.com/171443/apt/russia-romcom-group-firefox-tor-browser-zero-day.html",
+"urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/11/image-34.png",
+"publishedAt": "2024-11-27T08:37:35Z",
+"content": "Russian group RomCom exploited Firefox and Tor Browser zero-days to target attacks Europe and North America\r\n | The source code of Banshee Stealer leaked online\r\n | U.S. CISA adds Array Networks AG a… [+119278 chars]"
+},
+-{
+-"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "ET Online",
+"title": "'Terrified' Elon Musk warns US is currently headed for bankruptcy super fast, offers solution to fix it",
+"description": "SpaceX founder and Tesla CEO Elon Musk has warned that America is currently headed for bankruptcy super fast. The US national debt is over $36 trillion and this amounts to over $106k per person in America, which has left Musk 'terrified'. US President-elect D…",
+"url": "https://economictimes.indiatimes.com/news/international/global-trends/terrified-elon-musk-warns-us-is-currently-headed-for-bankruptcy-super-fast-offers-solution-to-fix-it/articleshow/115725724.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-115725947,width-1200,height-630,imgsize-2127979,overlay-economictimes/articleshow.jpg",
+"publishedAt": "2024-11-27T08:13:12Z",
+"content": "Tesla CEO Elon Musk has expressed his fear that the US national debt is spiralling out of control and has warned that America is currently headed for bankruptcy super fast. Musk, who has been tasked … [+4664 chars]"
+},
+-{
+-"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "AP",
+"title": "After fast start, electric cars need a recharge as range limits, cost leave some drivers skeptical",
+"description": "Global electric vehicle sales are rising, with China leading the way. China's EV market thrives due to government incentives. However, US and European markets face hurdles. Consumers express concerns about price, range, and charging access. Political changes …",
+"url": "https://economictimes.indiatimes.com/industry/renewables/after-fast-start-electric-cars-need-a-recharge-as-range-limits-cost-leave-some-drivers-skeptical/articleshow/115725957.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-115726112,width-1200,height-630,imgsize-180020,overlay-economictimes/articleshow.jpg",
+"publishedAt": "2024-11-27T08:11:48Z",
+"content": "DETROIT: While sales of electric vehicles surge in China, adoption of more environmentally friendly vehicles is stumbling in the United States and Europe as carmakers and governments struggle to meet… [+7425 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Digital Trends"
+},
+"author": "Trevor Mogg",
+"title": "Watch Figure’s latest humanoid robot performing tasks autonomously",
+"description": "Robotics startup Figure has shared a new video showing several of its humanoid robots performing a task that could be applied to the automotive industry.",
+"url": "https://www.digitaltrends.com/cars/figure-humanoid-robot-autonomous-tasks/",
+"urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/figure-02-robot.jpg?resize=1200%2C630&p=1",
+"publishedAt": "2024-11-27T07:59:22Z",
+"content": "Figure Status Update - BMW Use Case\r\nRobotics startup Figure recently shared a new video showing several of its humanoid robots performing a task that could be applied to the automotive industry.\r\nFi… [+5604 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "SoyaCincau.com"
+},
+"author": "Alexander Wong",
+"title": "ChargEV partners with eLoaded to deploy DC Grid system at upcoming EV fast charging hubs",
+"description": "Charge Point Operator ChargEV has announced an exclusive partnership with eLoaded to implement DC grid systems as part of its EV charging network expansion. The collaboration is said to pave way for faster, more efficient and sustainable EV charging solutions…",
+"url": "https://soyacincau.com/2024/11/27/chargev-eloaded-dc-grid-system-ev-fast-charging-hubs/",
+"urlToImage": "https://soyacincau.com/wp-content/uploads/2024/07/240707-sortimo-innovation-park-Zusmarshausen-germany-EV-DC-charging-hub-05.jpg",
+"publishedAt": "2024-11-27T07:54:49Z",
+"content": "Charge Point Operator ChargEV has announced an exclusive partnership with eLoaded to implement DC grid systems as part of its EV charging network expansion. The collaboration is said to pave way for … [+3803 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": "Theo Leggett - Business correspondent, BBC News",
+"title": "Electric car targets could be eased as demand flags",
+"description": "The government faces pressure from the industry to make changes to electric vehicle sales quotas.",
+"url": "https://www.bbc.com/news/articles/c98dzyy850jo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/fwPU.tC7C48K676TEEcy8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bbc_us_articles_995/69ca9982bda9d2365282d14b91b406ad",
+"publishedAt": "2024-11-27T07:30:59Z",
+"content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nR… [+3873 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "TechNode"
+},
+"author": "TechNode Feed",
+"title": "BYD to roll out new-gen blade batteries in 2025: report",
+"description": "BYD will introduce the next generation of its blade-shaped batteries in 2025, which could enable its electric vehicles to have a longer driving range and service life, Cao Shuang, the managing director of BYD’s Central Asia and European Auto Sales Division, r…",
+"url": "http://technode.com/2024/11/27/byd-to-roll-out-new-gen-blade-batteries-in-2025-report/",
+"urlToImage": "https://technode.com/wp-content/uploads/2024/06/BYD-Logo.jpeg",
+"publishedAt": "2024-11-27T07:17:13Z",
+"content": "BYD will introduce the next generation of its blade-shaped batteries in 2025, which could enable its electric vehicles to have a longer driving range and service life, Cao Shuang, the managing direct… [+811 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "seattlepi.com"
+},
+"author": "By DAVID McHUGH, ALEXA ST. JOHN and KEN MORITSUGU, Associated Press",
+"title": "After fast start, electric cars need a recharge as range limits, cost leave some drivers skeptical",
+"description": "While sales of electric vehicles surge in China, the spread of more environmentally friendly vehicles is stumbling in the United States and Europe as carmakers and governments struggle to meet years-old promises about affordability and charging stations. And …",
+"url": "https://www.seattlepi.com/business/article/after-fast-start-electric-cars-need-a-recharge-19945479.php",
+"urlToImage": "https://s.hdnux.com/photos/01/46/17/33/26801862/3/rawImage.jpg",
+"publishedAt": "2024-11-27T07:14:31Z",
+"content": "Electric vehicle charging stations are seen in Beijing, Friday, Oct. 11, 2024.Caroline Chen/AP\r\nRoxanne and Ken Honeycutt pose for photos by their Kia Soul electric vehicle in San Lorenzo, Calif., Sa… [+9180 chars]"
+},
+-{
+-"source": {
+"id": "abc-news",
+"name": "ABC News"
+},
+"author": "DAVID MCHUGH Associated Press, ALEXA ST. JOHN Associated Press, KEN MORITSUGU Associated Press",
+"title": "After fast start, electric cars need a recharge as range limits, cost leave some drivers skeptical",
+"description": "While sales of electric vehicles surge in China, the spread of more environmentally friendly vehicles is stumbling in the United States and Europe as carmakers and governments struggle to meet years-old promises about affordability and charging stations",
+"url": "https://abcnews.go.com/Business/wireStory/after-fast-start-electric-cars-recharge-range-limits-116263829",
+"urlToImage": "https://i.abcnewsfe.com/a/fc8621b7-6c93-43f2-b73a-a6629e806221/wirestory_b6a432557ac314d02654008bfbaa09fb_16x9.jpg?w=1600",
+"publishedAt": "2024-11-27T07:02:23Z",
+"content": "DETROIT -- While sales of electric vehicles surge in China, adoption of more environmentally friendly vehicles is stumbling in the United States and Europe as carmakers and governments struggle to me… [+7203 chars]"
+},
+-{
+-"source": {
+"id": "financial-post",
+"name": "Financial Post"
+},
+"author": "The Associated Press",
+"title": "After fast start, electric cars need a recharge as range limits, cost leave some drivers skeptical",
+"description": "DETROIT (AP) — While sales of electric vehicles surge in China, adoption of more environmentally friendly vehicles is stumbling in the United States and Europe as carmakers and governments struggle to meet years-old promises about affordability and charging s…",
+"url": "https://financialpost.com/pmn/after-fast-start-electric-cars-need-a-recharge-as-range-limits-cost-leave-some-drivers-skeptical",
+"urlToImage": null,
+"publishedAt": "2024-11-27T06:55:00Z",
+"content": "Author of the article:\r\nArticle content\r\nDETROIT (AP) While sales of electric vehicles surge in China, adoption of more environmentally friendly vehicles is stumbling in the United States and Europe … [+10308 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-11-27T06:53:08Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "DAVID McHUGH, ALEXA ST. JOHN and KEN MORITSUGU",
+"title": "After fast start, electric cars need a recharge as range limits, cost leave some drivers skeptical",
+"description": "While sales of electric vehicles surge in China, adoption of more environmentally friendly vehicles is stumbling in the United States and Europe as carmakers...",
+"url": "https://www.yahoo.com/news/fast-start-electric-cars-recharge-065307630.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/a2c73iygZKWb87Vj7r7rrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/fefe83cfef35333bbc096e92044d5355",
+"publishedAt": "2024-11-27T06:53:07Z",
+"content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nD… [+7613 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "benzinga.com",
+"title": "Tesla Sweetens Referral Program, Allowing Customers To Earn Up To $10,000 As Elon Musk's EV Giant Races To 500K Q4 Delivery Target",
+"description": "Tesla Inc. (NASDAQ:TSLA) on Tuesday revamped its referral program across North America, as it looks to race to its delivery target of 515,000 vehicles in the fourth quarter.\nWhat Happened: Tesla's updated referral program includes enhanced discounts and rewar…",
+"url": "https://biztoc.com/x/c059ec6eec57bbaa",
+"urlToImage": "https://biztoc.com/cdn/c059ec6eec57bbaa_s.webp",
+"publishedAt": "2024-11-27T06:39:32Z",
+"content": "Tesla Inc. (NASDAQ:TSLA) on Tuesday revamped its referral program across North America, as it looks to race to its delivery target of 515,000 vehicles in the fourth quarter.What Happened: Tesla's upd… [+145 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Digital Journal"
+},
+"author": "AFP",
+"title": "Vietnamese EV maker Vinfast reports $550 million Q3 loss",
+"description": "Vietnamese electric vehicle manufacturer VinFast reported a net loss of $550 million for the third quarter, less than the same period last year as the firm recorded an uptick in sales. The communist state’s first homegrown car manufacturer is aiming to compet…",
+"url": "https://www.digitaljournal.com/world/vietnamese-ev-maker-vinfast-reports-550-million-q3-loss/article",
+"urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/11/c39c30eaf4a0e608792719b3b938c95b823f9551.jpg",
+"publishedAt": "2024-11-27T06:27:33Z",
+"content": "A Vinfast electric car travels down a street in Hanoi - Copyright AFP Nhac NGUYEN\r\nVietnamese electric vehicle manufacturer VinFast reported a net loss of $550 million for the third quarter, less tha… [+1532 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "The Diplomat"
+},
+"author": "Shannon",
+"title": "Listening to China’s Economic Whisperers",
+"description": "The voices shaping economic strategy extend beyond the Communist Party’s inner circle to include a select “brain trust” of prominent economists.",
+"url": "https://thediplomat.com/2024/11/listening-to-chinas-economic-whisperers/",
+"urlToImage": "https://thediplomat.com/wp-content/uploads/2024/09/sizes/td-story-s-2/thediplomat_2024-09-24-122125.jpg",
+"publishedAt": "2024-11-27T06:07:46Z",
+"content": "Who truly has Beijings ear when it comes to economic policymaking? As China navigates a period of profound economic challenges, this question has taken on new urgency.\r\nWhile outsiders often perceive… [+26164 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Reuters",
+"title": "Exclusive-China's Hesai to halve lidar prices next year, sees wide adoption in electric cars",
+"description": "Exclusive-China's Hesai to halve lidar prices next year, sees wide adoption in electric cars",
+"url": "https://www.investing.com/news/stock-market-news/exclusivechinas-hesai-to-halve-lidar-prices-next-year-sees-wide-adoption-in-electric-cars-3743661",
+"urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_L.jpg",
+"publishedAt": "2024-11-27T06:06:31Z",
+"content": "SHANGHAI (Reuters) - China's Hesai Group, the world's largest maker of lidar sensors for autonomous driving, said it plans to slash the price of its key product by half next year which should lead to… [+2706 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Reuters",
+"title": "Exclusive-China's Hesai to halve lidar prices next year, sees wide adoption in electric cars",
+"description": "China's Hesai Group, the world's largest maker of lidar sensors for autonomous driving, said it plans to slash the price of its key product by half next year...",
+"url": "https://finance.yahoo.com/news/exclusive-chinas-hesai-halve-lidar-060141352.html",
+"urlToImage": "https://media.zenfs.com/en/reuters-finance.com/05f32a4206ada406de5cc4d338297b90",
+"publishedAt": "2024-11-27T06:01:41Z",
+"content": "Hesai Group plans to slash the price of its key product by half next year, which should lead to far wider adoption of the technology in electric cars. The next-generation lidar product ATX for advanc… [+4230 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "People.cn"
+},
+"author": "F_400991",
+"title": "California to provide rebates for zero-emission vehicles if federal tax credit eliminated by incoming Trump administration",
+"description": "LOS ANGELES, Nov. 26 (Xinhua) -- California Governor Gavin Newsom said on Monday the western U.S. st",
+"url": "http://en.people.cn/n3/2024/1127/c90000-20247359.html",
+"urlToImage": null,
+"publishedAt": "2024-11-27T05:34:14Z",
+"content": "(Xinhua) 13:14, November 27, 2024\r\nLOS ANGELES, Nov. 26 (Xinhua) -- California Governor Gavin Newsom said on Monday the western U.S. state will step in to provide rebates for zero-emission vehicle (Z… [+2750 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Americanthinker.com"
+},
+"author": null,
+"title": "The electric vehicle doom loop is almost closed",
+"description": "What a difference a few weeks make. As Barack Obama so dismissively said, elections have consequences. Since Nov. 5, a wide variety of individuals, media personalities, businesses, even nations have been trying to make nice with Donald Trump. Even&nb...",
+"url": "https://www.americanthinker.com/blog/2024/11/the_electric_vehicle_doom_loop_is_almost_closed.html",
+"urlToImage": "https://images.americanthinker.com/5x/5xpo7pg42ohl4kjthvrc_800.jpg",
+"publishedAt": "2024-11-27T05:00:00Z",
+"content": "What a difference a few weeks make. As Barack Obama so dismissively said, elections have consequences. Since Nov. 5, a wide variety of individuals, media personalities, businesses, even nations have … [+5058 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CleanTechnica"
+},
+"author": "David Waterworth",
+"title": "Leapmotor C10 Catches Our Eye!",
+"description": "Want some attention? Deliver your new Leapmotor C10 SUV electric vehicle by Black Hawk Helicopter on national television! You can watch the video here. One lucky viewer of “Sunrise” got the surprise of her life. And Leapmotor got some national attention in Au…",
+"url": "https://cleantechnica.com/2024/11/26/leapmotor-c10-catches-our-eye/",
+"urlToImage": "https://cleantechnica.com/wp-content/uploads/2024/11/Leapmotor-C10.jpg",
+"publishedAt": "2024-11-27T04:39:00Z",
+"content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nWant some attention? Deliver your new Leapmotor C10 SUV electric vehicle by Black Hawk Helicopter on national… [+7172 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "ShantiPutri",
+"title": "Rivian Catalysts Fluctuate the Stock Price Amid Expansion and Strategic Moves",
+"description": "Rivian is experiencing ups and downs in stock price amid multiple catalysts.",
+"url": "https://finance.yahoo.com/news/rivian-catalysts-fluctuate-stock-price-040918501.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/kUF3CPzTWechnQJR4_JIMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/us.finance.gurufocus/35b9096de0af6e70a5818f32a5562558",
+"publishedAt": "2024-11-27T04:09:18Z",
+"content": "Rivian (NASDAQ:RIVN), the EV startup that rivals Tesla, offers a bag of potential catalysts that drive the stock price higher. Here are a few key points:\r\nThe Conditional Loan up to $6.6 billion\r\nThe… [+2207 chars]"
+},
+-{
+-"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "PTI",
+"title": "Indian-American Jay Bhattacharya is Trump's pick to lead top US health institute",
+"description": "President-elect Donald Trump has nominated Dr. Jay Bhattacharya, a Stanford professor, to lead the National Institutes of Health (NIH).  Bhattacharya, the first Indian-American tapped for a top Trump administration post, will collaborate with Robert F. Kenned…",
+"url": "https://economictimes.indiatimes.com/news/international/global-trends/indian-american-jay-bhattacharya-is-trumps-pick-to-lead-top-us-health-institute/articleshow/115717140.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-115717177,width-1200,height-630,imgsize-10610,overlay-economictimes/articleshow.jpg",
+"publishedAt": "2024-11-27T03:56:38Z",
+"content": "Washington: US President-elect Donald Trump has picked Indian-American scientist Jay Bhattacharya as the director of the National Institutes of Health, the country's top health research and funding i… [+2498 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Richmond.com"
+},
+"author": "FATIMA HUSSEIN, JOSH BOAK and ZEKE MILLER Associated Press",
+"title": "Trump nominates Jamieson Greer for trade representative, Kevin Hassett for National Economic Council",
+"description": "Trump also reached a required deal with the White House to allow his transition staff to coordinate with the existing federal workforce.",
+"url": "https://richmond.com/news/nation-world/government-politics/politics-washington-transition-administration/article_ab112b5d-17af-53a2-93b8-17237d02b987.html",
+"urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/b1/ab112b5d-17af-53a2-93b8-17237d02b987/6746837ac316e.preview.jpg?crop=1304%2C686%2C204%2C243&resize=1200%2C631&order=crop%2Cresize",
+"publishedAt": "2024-11-27T03:42:00Z",
+"content": "WEST PALM BEACH, Fla. President-elect Donald Trump announced a slew of nominations Tuesday, including international trade attorney Jamieson Greer to be his U.S. trade representative, Kevin Hassett as… [+34716 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Richmond.com"
+},
+"author": "CARLA K. JOHNSON Associated Press",
+"title": "Trump picks Jay Bhattacharya, critic of COVID lockdowns, for National Institutes of Health",
+"description": "Bhattacharya was one of three authors an October 2020 open letter maintaining that lockdowns were causing irreparable harm.",
+"url": "https://richmond.com/news/nation-world/government-politics/politics-transition-administration-public-health/article_c58a3415-e0bd-5765-af49-6a87c748a05b.html",
+"urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/58/c58a3415-e0bd-5765-af49-6a87c748a05b/674693017e08b.preview.jpg?crop=1698%2C891%2C4%2C57&resize=1200%2C630&order=crop%2Cresize",
+"publishedAt": "2024-11-27T03:35:00Z",
+"content": "President-elect Donald Trump chose health economist Dr. Jay Bhattacharya, a critic of COVID-19 pandemic lockdowns and vaccine mandates, to lead the National Institutes of Health, the nation's leading… [+31128 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Roanoke Times"
+},
+"author": "CARLA K. JOHNSON Associated Press",
+"title": "Trump picks Jay Bhattacharya, critic of COVID lockdowns, for National Institutes of Health",
+"description": "Bhattacharya was one of three authors an October 2020 open letter maintaining that lockdowns were causing irreparable harm.",
+"url": "https://roanoke.com/news/nation-world/government-politics/politics-transition-administration-public-health/article_80809ba9-b5ef-5a2d-90aa-509a63023326.html",
+"urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/8/08/80809ba9-b5ef-5a2d-90aa-509a63023326/67469301b8f32.preview.jpg?crop=1698%2C891%2C4%2C57&resize=1200%2C630&order=crop%2Cresize",
+"publishedAt": "2024-11-27T03:35:00Z",
+"content": "President-elect Donald Trump chose health economist Dr. Jay Bhattacharya, a critic of COVID-19 pandemic lockdowns and vaccine mandates, to lead the National Institutes of Health, the nation's leading… [+31542 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "BusinessLine"
+},
+"author": "PTI",
+"title": "Jay Bhattacharya makes history as first Indian-American NIH Director under Trump",
+"description": "Alongside Robert F. Kennedy Jr., Bhattacharya will lead efforts to tackle America’s major health challenges, focusing on chronic illnesses and promoting biomedical innovation",
+"url": "https://www.thehindubusinessline.com/news/world/jay-bhattacharya-makes-history-as-first-indian-american-nih-director-under-trump/article68917207.ece",
+"urlToImage": "https://bl-i.thgim.com/public/incoming/cx3mf0/article68917215.ece/alternates/LANDSCAPE_1200/Jay%20Bhattacharya.jpg",
+"publishedAt": "2024-11-27T03:34:48Z",
+"content": "US President-elect Donald Trump has picked Indian-American scientist Jay Bhattacharya as the director of the National Institutes of Health, the country's top health research and funding institutions.… [+2435 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "People.cn"
+},
+"author": "F_400983",
+"title": "To understand China's reform and opening up via two sets of data",
+"description": "Recently, two sets of data highlight the latest achievements of China's reform and opening up.\nThe f",
+"url": "http://en.people.cn/n3/2024/1127/c90000-20247341.html",
+"urlToImage": null,
+"publishedAt": "2024-11-27T03:24:01Z",
+"content": "Recently, two sets of data highlight the latest achievements of China's reform and opening up.\r\nThe first set of data is about China's new energy vehicles (NEVs). On November 14, China's annual produ… [+7629 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "TweakTown"
+},
+"author": "Anthony Garreffa",
+"title": "Elon Musk's Neuralink to conduct trial to see if its brain implact can control a robotic arm",
+"description": "Elon Musk's brain-computer interface (BCI) startup, Neuralink, announces it will test whether a person can contrrol a robotic arm with just their thoughts. Continue reading at TweakTown >",
+"url": "https://www.tweaktown.com/news/101869/elon-musks-neuralink-to-conduct-trial-see-if-its-brain-implact-can-control-robotic-arm/index.html",
+"urlToImage": "https://static.tweaktown.com/news/1/0/101869_807_elon-musks-neuralink-to-conduct-trial-see-if-its-brain-implact-can-control-robotic-arm_full.jpg",
+"publishedAt": "2024-11-27T03:09:02Z",
+"content": "TL;DR: Neuralink has received approval to test its wireless brain-computer interface (BCI) implant with an assistive robotic arm, marking a significant advancement in BCI technology. This trial aims … [+1302 chars]"
+},
+-{
+-"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Reuters",
+"title": "Elon Musk uses X to push his preferred political picks, Trump isn't always swayed",
+"description": "Musk, who owns X and rocket company SpaceX and is chief executive of the electric car company Tesla Inc., poured at least $119 million into getting Trump elected and has been a near-constant fixture at Trump's Florida residence, Mar-a-Lago, since his election…",
+"url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-uses-x-to-push-his-preferred-political-picks-trump-isnt-always-swayed/articleshow/115715040.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-115715087,width-1200,height-630,imgsize-28154,overlay-ettech/articleshow.jpg",
+"publishedAt": "2024-11-27T02:53:53Z",
+"content": "Billionaire Elon Musk has been using his social media platform X to go to bat for President-elect Donald Trump's cabinet picks and promote his own preferred candidates, advocating for choices he view… [+5868 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Mother Jones"
+},
+"author": "Kiera Butler",
+"title": "He Rose to Fame as a Covid Contrarian, and Trump Wants Him to Be NIH Head",
+"description": "On Tuesday, President-elect Donald Trump announced that he would nominate Dr. Jay Bhattacharya to lead the National Institutes of Health, a government agency composed of more than 18,000 employees with an annual budget of $47 billion. Bhattacharya, a professo…",
+"url": "https://www.motherjones.com/politics/2024/11/bhattacharya-covid-trump-pick-nih-health-director/",
+"urlToImage": "https://www.motherjones.com/wp-content/uploads/2024/11/112024bhattacharya.jpg?w=1200&h=630&crop=1",
+"publishedAt": "2024-11-27T02:52:33Z",
+"content": "Tom Williams/CQ Roll Call/AP\r\nFight disinformation: Sign up for the free Mother Jones Daily newsletter and follow the news that matters.\r\nOn Tuesday, President-elect Donald Trump announced that he wo… [+8299 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Roanoke Times"
+},
+"author": "FATIMA HUSSEIN and JOSH BOAK Associated Press",
+"title": "Trump nominates Jamieson Greer for trade representative, Kevin Hassett for National Economic Council",
+"description": "Trump also reached a required deal with the White House to allow his transition staff to coordinate with the existing federal workforce.",
+"url": "https://roanoke.com/news/nation-world/government-politics/politics-washington-transition-administration/article_d215e0ba-9efd-5372-b670-044585934c01.html",
+"urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/d/21/d215e0ba-9efd-5372-b670-044585934c01/6746837b44880.preview.jpg?crop=1304%2C686%2C204%2C243&resize=1200%2C631&order=crop%2Cresize",
+"publishedAt": "2024-11-27T02:30:00Z",
+"content": "WEST PALM BEACH, Fla. President-elect Donald Trump announced a slew of nominations Tuesday, including international trade attorney Jamieson Greer to be his U.S. trade representative, Kevin Hassett as… [+35130 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CleanTechnica"
+},
+"author": "Zachary Shahan",
+"title": "Tesla Doubles Referral Bonus",
+"description": "Tesla has tried offering several different types of incentives in the past year to stimulate more sales in the US. From Full Self Driving (FSD) transfer to 0.99% APR financing to free Supercharging to referral discounts, Tesla keeps offering more reasons to b…",
+"url": "https://cleantechnica.com/2024/11/26/tesla-doubles-referral-bonus/",
+"urlToImage": "https://cleantechnica.com/wp-content/uploads/2024/09/New-Tesla-Cybertruck-Tesla-Store-Opening-Florida-3.jpeg",
+"publishedAt": "2024-11-27T02:22:50Z",
+"content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nTesla has tried offering several different types of incentives in the past year to stimulate more sales in th… [+3408 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-11-27T01:51:14Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Newsbreak.com"
+},
+"author": "Justin Baragona",
+"title": "Elon Musk’s mom says it’s ‘degrading’ to call her son ‘wealthy’: He’s ‘the genius of the world’",
+"description": "The mother of Elon Musk , the world’s richest man, stopped by Fox Business on Monday to scold those who call her son “wealthy,” claiming it was “degrading” and that she would prefer he be referred to as the “genius of the world.” With her son now president-el…",
+"url": "https://www.newsbreak.com/share/3691867977175-elon-musk-s-mom-says-it-s-degrading-to-call-her-son-wealthy-he-s-the-genius-of-the-world?_f=app_share&amp;pd=0DvgA7MP&amp;lang=en_US&amp;send_time=1732671704&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.47.0.27%22%2C%22languages%22%3A%22en%22%7D&amp;sep=ns_foryou_model_exp_24q4-v8%2Cns_local_strategy_24q4_exp-v10%2Cns_foryou_rank_exp_24q4-v5%2Cns_foryou_recall_exp_24q4-v7%2Cns_summary_v1-v1%2Cns_push_exp_rt_bucketv12-v6%2Cns_foryou_blend_exp_24q4-v3&amp;s=i2",
+"urlToImage": "https://img.particlenews.com/img/id/25C6O2_0x30G9Bn00?type=thumbnail_1600x1200",
+"publishedAt": "2024-11-27T01:44:19Z",
+"content": "The mother of Elon Musk , the worlds richest man, stopped by Fox Business on Monday to scold those who call her son wealthy, claiming it was degrading and that she would prefer he be referred to as t… [+2845 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Jo Borrás",
+"title": "Gavin Newsom isn’t afraid of Elon, 650 hp Kia EV6, and Green Machine deals",
+"description": "On today’s fact-checking episode of Quick Charge, we’ve got a showdown brewing between California Governor Gavin Newsom and Tesla CEO Elon Musk, an updated 650 hp Kia EV6 GT that’s ready to take on the world, and some sweet deals on battery-powered goodies.\n\n…",
+"url": "http://electrek.co/2024/11/26/gavin-newsom-isnt-afraid-of-elon-650-hp-kia-ev6-and-green-machine-deals/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2024-11-27T01:34:34Z",
+"content": "On today’s fact-checking episode of Quick Charge, we’ve got a showdown brewing between California Governor Gavin Newsom and Tesla CEO Elon Musk, an updated 650 hp Kia EV6 GT that’s ready to take on t… [+1423 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Digitimes"
+},
+"author": "Vyra Wu",
+"title": "South Korea races to revive humanoid robotics ambitions",
+"description": "Humanoid robots, widely considered the ultimate achievement in robotics, integrate advanced computing, sensors, motors, and AI to replicate human form and movement. Global tech giants including Tesla, Amazon, Nvidia, and Microsoft have intensified their R&D e…",
+"url": "https://www.digitimes.com/news/a20241122PD210/robotics-tesla-government-2024.html",
+"urlToImage": "https://img.digitimes.com/newsshow/20241122pd210_files/2_b.jpg",
+"publishedAt": "2024-11-27T01:05:01Z",
+"content": "Humanoid robots, widely considered the ultimate achievement in robotics, integrate advanced computing, sensors, motors, and AI to replicate human form and movement. Global tech giants including Tesla… [+56 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Investing.com",
+"title": "Cathie Wood's ARK ETF shifts focus with major stock trades in AMD and TER",
+"description": "Cathie Wood's ARK ETF shifts focus with major stock trades in AMD and TER",
+"url": "https://www.investing.com/news/company-news/cathie-woods-ark-etf-shifts-focus-with-major-stock-trades-in-amd-and-ter-93CH-3743540",
+"urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+"publishedAt": "2024-11-27T01:03:43Z",
+"content": "Cathie Wood's ARK ETF published their daily trades for Tuesday, November 26th, 2024, with a mix of strategic buys and sells across various sectors. The trades reflect ARK's ongoing investment strateg… [+2393 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "International Business Times"
+},
+"author": "Morgan Music",
+"title": "Vivek Ramaswamy Calls Biden's $6.6 Billion Deal With Tesla Rival 'Political Shot' at Elon Musk",
+"description": "Vivek Ramaswamy criticized Biden's administration for its $6.6 billion loan to electric automaker Rivian, calling it a \"political shot\" at Musk and Tesla.",
+"url": "https://www.ibtimes.com/vivek-ramaswamy-calls-bidens-66-billion-deal-tesla-rival-political-shot-elon-musk-3752811",
+"urlToImage": "https://d.ibtimes.com/en/full/4564715/vivek-ramaswamy-calls-bidens-66-billion-deal-tesla-rival.jpg",
+"publishedAt": "2024-11-27T00:51:47Z",
+"content": "Vivek Ramaswamy criticized President Joe Biden's administration for its $6.6 billion loan to electric automaker Rivian, calling it a \"political shot\" at Elon Musk and Tesla.\r\nThe loan, announced Tues… [+1226 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "benzinga.com",
+"title": "Our Number One Name: Tesla",
+"description": "Portfolio Armor's Top Ten Names\nPortfolio Armor's top ten names have, on average, outperformed the market significantly since December of 2022. Since then, we have full, 6-month performance data on 74 weekly top names cohorts. On average, our top names have r…",
+"url": "https://biztoc.com/x/bcacd2e958d7350c",
+"urlToImage": "https://biztoc.com/cdn/bcacd2e958d7350c_s.webp",
+"publishedAt": "2024-11-27T00:37:51Z",
+"content": "Portfolio Armor's Top Ten NamesPortfolio Armor's top ten names have, on average, outperformed the market significantly since December of 2022. Since then, we have full, 6-month performance data on 74… [+145 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "thestreet.com",
+"title": "Political fever over EVs has Tesla expert buzzing with confidence",
+"description": "In an act of politically charged defiance, California Governor Gavin Newsom announced on November 25 that if President-Elect Donald Trump follows through with his plans to eliminate the federal EV tax credit, the state of California will reintroduce a program…",
+"url": "https://biztoc.com/x/cbca4e6442c50758",
+"urlToImage": "https://biztoc.com/cdn/cbca4e6442c50758_s.webp",
+"publishedAt": "2024-11-27T00:15:37Z",
+"content": "In an act of politically charged defiance, California Governor Gavin Newsom announced on November 25 that if President-Elect Donald Trump follows through with his plans to eliminate the federal EV ta… [+146 chars]"
+},
+-{
+-"source": {
+"id": "fox-news",
+"name": "Fox News"
+},
+"author": "Joshua Nelson",
+"title": "‘Landman’ clip goes viral slamming renewable energy: ‘There is nothing clean about this’",
+"description": "Scene from new TV show from \"Yellowstone\" creator Tyler Sheridan goes viral on X on Sunday because it slams wind turbines and clean energy narrative associated with them.",
+"url": "https://www.foxnews.com/media/scene-from-billy-bob-thorntons-new-show-landman-slams-clean-energy-goes-viral-x",
+"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/landman_103_em_bts_0221_01130_rt-scaled.jpg",
+"publishedAt": "2024-11-27T00:00:37Z",
+"content": "A clip from Billy Bob Thorntons new show \"Landman\" went viral on X for slamming the use of renewable energy like wind turbines, that are intended to combat the effects of climate change.\r\n\"They use c… [+2550 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Rikki Schlott",
+"title": "Walmart ditches DEI, because, duh, dividing people doesn’t bring them closer together",
+"description": "DEI is dying, per an obvious revelation: dividing people divides people.",
+"url": "https://nypost.com/2024/11/26/opinion/walmart-ditches-dei-because-dividing-people-divides-people/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/DEI2.jpg?quality=75&strip=all&w=1024",
+"publishedAt": "2024-11-26T23:52:17Z",
+"content": "DEI is dying, as big companies wake up to an obvious truth: dividing people divides people.\r\nWalmart is just the latest company to hop on the trend of slashing Diversity, Equity, and Inclusion initia… [+5189 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Crikey"
+},
+"author": "Bernard Keane",
+"title": "Trump’s tariffs promise chaos — and Australia’s investments are in the firing line",
+"description": "Australia's Future Fund has more than 40% of its assets invested in the US economy, which means the damage Trump inflicts hurts us too.\nThe post Trump’s tariffs promise chaos — and Australia’s investments are in the firing line appeared first on Crikey.",
+"url": "https://www.crikey.com.au/2024/11/27/donald-trump-tariffs-australia-future-fund-economic-impact/",
+"urlToImage": "https://www.crikey.com.au/wp-content/uploads/2024/11/20241120113645385480-original-copy.jpg?quality=70",
+"publishedAt": "2024-11-26T23:50:44Z",
+"content": "Too bad if youre a US company, like an automobile manufacturer, reliant on imports from Mexico. Donald Trump just promised to impose a 25% tax on your supply chain, along with everything else importe… [+3645 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Robb Report"
+},
+"author": "Martin Lerma",
+"title": "L.A.’s Auto Show Spotlights Art Cars From Keith Haring, Virgil Abloh and More",
+"description": "Thanks to CART Department and West Coast Customs, a collection of cars designed by artists such as Keith Haring will be part of the LA Auto Show",
+"url": "http://robbreport.com/motors/cars/artist-designed-cars-la-auto-show-1236008001/",
+"urlToImage": "https://robbreport.com/wp-content/uploads/2024/11/cart-department-and-west-coast-customs.jpg?w=681&h=383&crop=1",
+"publishedAt": "2024-11-26T23:30:00Z",
+"content": "L.A.’s auto show is bringing art center stage. \r\nA collaboration between Cart Department and the renowned West Coast Customs, Art Car Series presents 10 artist-designed vehicles from leading creative… [+1896 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Richard Nieva, Forbes Staff, \n Richard Nieva, Forbes Staff\n https://www.forbes.com/sites/richardnieva/",
+"title": "The Prompt: A Trump AI Czar?",
+"description": "Plus: The DOJ could hobble Google’s AI ambitions",
+"url": "https://www.forbes.com/sites/richardnieva/2024/11/26/the-prompt-a-trump-ai-czar/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67464662ca19c8793201c302/0x0.jpg?format=jpg&crop=2751,1547,x0,y0,safe&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-11-26T23:14:43Z",
+"content": "Welcome back to The Prompt.\r\nPresident-elect Donald Trump\r\nGetty Images\r\nPresident-elect Donald Trump is considering appointing an AI czar to lead efforts in artificial intelligence policy, as well a… [+6860 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Kyle Wiggers",
+"title": "Trump considers naming an 'AI czar' | TechCrunch",
+"description": "Incoming president Donald Trump is considering naming an 'AI czar' in the White House, according to a report.",
+"url": "https://techcrunch.com/2024/11/26/trump-considers-naming-an-ai-czar/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1327493808.jpg?resize=1200,800",
+"publishedAt": "2024-11-26T23:11:38Z",
+"content": "Incoming president Donald Trump is considering naming an “AI czar” in the White House, Axios reports. \r\nShould Trump appoint such a policy person, they’d be charged with helping to coordinate federal… [+779 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "TweakTown"
+},
+"author": "Anthony Garreffa",
+"title": "Elon Musk at SpaceX launch: if he played League of Legends, it would damage the space program",
+"description": "Elon Musk was asked if he played Fortnite, to which he said no... when asked about League of Legends, he said if he did it would 'damage the space program' Continue reading at TweakTown >",
+"url": "https://www.tweaktown.com/news/101887/elon-musk-at-spacex-launch-if-he-played-league-of-legends-it-would-damage-the-space-program/index.html",
+"urlToImage": "https://static.tweaktown.com/news/1/0/101887_803_elon-musk-at-spacex-launch-if-he-played-league-of-legends-it-would-damage-the-space-program_full.jpg",
+"publishedAt": "2024-11-26T22:37:52Z",
+"content": "TL;DR: At a recent SpaceX launch, Elon Musk humorously stated that playing League of Legends would harm the space program. He mentioned enjoying first-person shooters like Quake but has not played Fo… [+1146 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "inc.com",
+"title": "A California EV Rebate That Could Exclude Tesla? Musk Says That’s ‘Insane’",
+"description": "Gov. Gavin Newsom is gearing up for a fight against the incoming Trump administration on electric vehicles. Tesla is on the frontlines.",
+"url": "https://biztoc.com/x/6925d311fbf6ff4f",
+"urlToImage": "https://biztoc.com/cdn/6925d311fbf6ff4f_s.webp",
+"publishedAt": "2024-11-26T22:36:59Z",
+"content": "Gov. Gavin Newsom is gearing up for a fight against the incoming Trump administration on electric vehicles. Tesla is on the frontlines.\r\nThis story appeared on inc.com, 2024-11-26 22:19:12."
+},
+-{
+-"source": {
+"id": null,
+"name": "Foreign Policy"
+},
+"author": "Lili Pike",
+"title": "Where Trump’s Cabinet Stands on China",
+"description": "China hawks dominate, but Elon Musk could soften the administration’s stance.",
+"url": "https://foreignpolicy.com/2024/11/26/trump-cabinet-picks-china-taiwan-policy-views-rubio-waltz-elon-musk/",
+"urlToImage": "https://foreignpolicy.com/wp-content/uploads/2024/11/elon-musk-china-GettyImages-1079499940.jpg?w=1000",
+"publishedAt": "2024-11-26T22:30:27Z",
+"content": "U.S. President-elect Donald Trump has now made nearly all of his key appointments. He has stacked his cabinet with China hawks, with one notable exception in Elon Musk. The incoming Trump teams track… [+9953 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-11-26T22:28:11Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-11-26T22:23:46Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-11-26T22:04:22Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "electrek.co",
+"title": "Elon Musk fires back on excluding Tesla from California’s new EV incentive he wants to kill",
+"description": "Elon Musk fired back at California Governor Gavin Newsom who said the state might exclude Tesla from a new EV incentive meant to replace the federal one Musk is trying to kill.\nThe knives are out.\nAs we previously reported, Trump’s transition team has already…",
+"url": "https://biztoc.com/x/2528b4487b9624f4",
+"urlToImage": "https://biztoc.com/cdn/808/og.png",
+"publishedAt": "2024-11-26T21:52:47Z",
+"content": "Elon Musk fired back at California Governor Gavin Newsom who said the state might exclude Tesla from a new EV incentive meant to replace the federal one Musk is trying to kill.The knives are out.As w… [+149 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Japan Today"
+},
+"author": null,
+"title": "Auto industry's shift toward EVs is expected to go on despite Trump threat to kill tax credits",
+"description": "If President-elect Donald Trump makes good on his threat to kill federal tax credits for electric vehicle purchases, it's likely that fewer buyers will choose EVs. Yet tax credits or not, auto companies show no intention of retreating from a steady transition…",
+"url": "https://japantoday.com/category/business/auto-industry%27s-shift-toward-evs-is-expected-to-go-on-despite-trump-threat-to-kill-tax-credits",
+"urlToImage": null,
+"publishedAt": "2024-11-26T21:45:01Z",
+"content": "If President-elect Donald Trump makes good on his threat to kill federal tax credits for electric vehicle purchases, it's likely that fewer buyers will choose EVs.\r\nYet tax credits or not, auto compa… [+7370 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Securityaffairs.com"
+},
+"author": "Pierluigi Paganini",
+"title": "Software firm Blue Yonder providing services to US and UK stores, including Starbucks, hit by ransomware attack",
+"description": "Blue Yonder, a supply chain software provider, suffered a ransomware attack, impacting operations for clients like Starbucks and grocery stores. A ransomware attack on Blue Yonder disrupted operations for several customers, including Starbucks and U.K. grocer…",
+"url": "https://securityaffairs.com/171434/uncategorized/blue-yonder-ransomware-attack.html",
+"urlToImage": "https://securityaffairs.com/wp-content/uploads/2014/01/starbucks-iphone-app-customize-drink.png",
+"publishedAt": "2024-11-26T21:42:39Z",
+"content": "The source code of Banshee Stealer leaked online\r\n | U.S. CISA adds Array Networks AG and vxAG ArrayOS flaw to its Known Exploited Vulnerabilities catalog\r\n | Thai police arrested Chinese hackers inv… [+119166 chars]"
+},
+-{
+-"source": {
+"id": "the-next-web",
+"name": "The Next Web"
+},
+"author": "Siôn Geschwindt",
+"title": "Cambridge spinout Molyon bets on lithium-sulfur in race for better batteries",
+"description": "Lithium-ion batteries have served us well, powering much of the modern world. However, today’s tech — everything from drones and EVs to the wretched Tesla cyber truck — demands denser batteries that charge faster and take you further. This push is driving sci…",
+"url": "https://thenextweb.com/news/cambridge-spinout-molyon-lithium-sulfur-battery-startup",
+"urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F11%2Flithium-sulfur-drones-battery-startup.jpg&signature=271420312a4ba6b2de219931eda71477",
+"publishedAt": "2024-11-26T21:29:19Z",
+"content": "Lithium-ion batteries have served us well, powering much of the modern world. However, todays tech everything from drones and EVs to the wretched Tesla cyber truck demands denser batteries that charg… [+3061 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Foreign Policy"
+},
+"author": "James Palmer",
+"title": "What Trump’s Tariffs Will Mean for China",
+"description": "As the U.S. president-elect issues new threats, Beijing is already bracing for a shift.",
+"url": "https://foreignpolicy.com/2024/11/26/china-trump-tariffs-economy-manufacturing/",
+"urlToImage": "https://foreignpolicy.com/wp-content/uploads/2024/11/china-factory-economy-GettyImages-2185326325.jpg?w=1000",
+"publishedAt": "2024-11-26T21:28:00Z",
+"content": "Welcome to Foreign Policys China Brief.\r\nThe highlights this week: U.S. President-elect Donald Trump again threatens new tariffs on China, Beijing helps strike a deal at the United Nations climate co… [+10886 chars]"
+},
+-{
+-"source": {
+"id": "abc-news",
+"name": "ABC News"
+},
+"author": "Max Zahn",
+"title": "Dow closes at record high, defying fears of panic sparked by Trump's tariff threat",
+"description": "Dow closes at record high, defying fears of panic sparked by Trump's tariff threatgo.com",
+"url": "https://abcnews.go.com/Business/dow-closes-record-high-defying-fears-panic-sparked/story?id=116252904",
+"urlToImage": "https://i.abcnewsfe.com/a/48c449d6-1ae6-4355-8aaa-1e1e790b8b29/new-york-stock-exchange-gty-lv-241126-2_1732656062131_hpMain_16x9.jpg?w=1600",
+"publishedAt": "2024-11-26T21:08:03Z",
+"content": "The Dow Jones Industrial Average closed at a record high on Tuesday, achieving the milestone less than 24 hours after a tariff pledge from President-elect Donald Trump sparked fears of a panic in the… [+1733 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Raw Story"
+},
+"author": "Erik De La Garza",
+"title": "‘Smells like a political shot’: MAGA world freaks out over Biden plan for EV-maker",
+"description": "A Biden administration plan to extend a $6 billion loan for an electric vehicle manufacturer to build an E.V. factory in Georgia sent MAGA world into a tailspin Tuesday.The plan announced Monday is reportedly part of a push to lock in Democratic climate polic…",
+"url": "https://www.rawstory.com/biden-administration/",
+"urlToImage": "https://www.rawstory.com/media-library/u-s-president-joe-biden-looks-on-during-carpenters-local-445-gotv-event-in-scranton-pennsylvania-u-s-november-2-2024-reu.jpg?id=54168638&width=1200&height=600&coordinates=0%2C500%2C0%2C500",
+"publishedAt": "2024-11-26T21:06:29Z",
+"content": "A Biden administration plan to extend a $6 billion loan for an electric vehicle manufacturer to build an E.V. factory in Georgia sent MAGA world into a tailspin Tuesday.\r\nThe plan announced Monday is… [+1651 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Addicted2success.com"
+},
+"author": "Grant Chen",
+"title": "How to Market Your Startup on a Tight Budget",
+"description": "Here's how to put low-cost plans into action that connect with customers and grow your audience without overspending.\nThe post How to Market Your Startup on a Tight Budget appeared first on Addicted 2 Success.",
+"url": "https://addicted2success.com/startups/how-to-market-your-startup-on-a-tight-budget/",
+"urlToImage": "https://addicted2success.com/wp-content/uploads/2024/11/How-to-Market-Your-Startup-on-a-Tight-Budget.png",
+"publishedAt": "2024-11-26T21:00:16Z",
+"content": "Unleash your business potential by harnessing Napoleon’s strategic genius.\r\nFrom dreaming big and thinking bold to moving fast and staying agile, these time-tested tactics are your blueprint for succ… [+7609 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "International Business Times"
+},
+"author": "Maryam Khanum",
+"title": "Elon Musk Rages After California Governor Excludes Tesla from Rebate Program for Electric Car Buyers: 'Insane'",
+"description": "Electric vehicles sold by Tesla Inc. would not be included in a consumer rebates proposal presented by California Gov. Gavin Newsom, prompting a response from Tesla CEO Elon Musk.",
+"url": "https://www.ibtimes.com/elon-musk-rages-after-california-governor-excludes-tesla-rebate-program-electric-car-buyers-3752792",
+"urlToImage": "https://d.ibtimes.com/en/full/4564686/gavin-newsom-elon-musk.jpg",
+"publishedAt": "2024-11-26T20:52:38Z",
+"content": "California Gov. Gavin Newsom is encouraging constituents to buy electric vehicles by offering partial refunds in a new proposal. However, buyers of vehicles sold by Tesla Inc. will not be included in… [+2355 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Pajiba.com"
+},
+"author": "Dustin Rowles",
+"title": "Taylor Sheridan's 'Landman' Is an Audaciously Tone-Deaf Love Letter to Fossil Fuels",
+"description": "The only thing on television this season more preposterous than Doctor Odyssey -- with its threesomes and quackers -- is Taylor Sheridan's latest on Paramount+, Landman. After all, what could be more bananas in 2024 than a show that unabashedly...\nRead more...",
+"url": "https://www.pajiba.com/tv_reviews/taylor-sheridans-landman-is-an-audaciously-tonedeaf-love-letter-to-fossil-fuels.php",
+"urlToImage": "https://www.pajiba.com/assets_c/2024/11/landman-thornton-thumb-700xauto-266882.jpg",
+"publishedAt": "2024-11-26T20:45:44Z",
+"content": "The only thing on television this season more preposterous than Doctor Odyssey — with its threesomes and quackers — is Taylor Sheridan’s latest on Paramount+, Landman. After all, what could be more b… [+5042 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Honolulu Star-Advertiser"
+},
+"author": "Reuters",
+"title": "Musk uses X to push his preferred political picks | Honolulu Star-Advertiser",
+"description": "Billionaire Elon Musk has been using his social media platform X to go to bat for President-elect Donald Trump’s cabinet picks and promote his own preferred candidates, advocating for choices he views as change agents who will help remake the U.S. government.",
+"url": "https://www.staradvertiser.com/2024/11/26/breaking-news/musk-uses-x-to-push-his-preferred-political-picks/",
+"urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2024/11/web1_2024-11-26T172030Z_1_LYNXNPEKAP0RD_RTROPTP_3_USA-TRUMP-MUSK-X.JPG",
+"publishedAt": "2024-11-26T20:44:13Z",
+"content": "Billionaire Elon Musk has been using his social media platform X to go to bat for President-elect Donald Trump’s cabinet picks and promote his own preferred candidates, advocating for choices he view… [+6010 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "POLITICO.eu"
+},
+"author": "Nette Nöstlinger",
+"title": "Germany’s industrial woes stir anger ahead of key election",
+"description": "As layoffs threaten German auto and steel workers, unions are threatening large-scale strikes and politicians are fumbling for answers.",
+"url": "https://www.politico.eu/article/germanys-industrial-woes-key-election-volkswagen-plants-thorsten-groger-ig-metall-labor-union-profits/",
+"urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/11/26/GettyImages-2180848172-scaled.jpg",
+"publishedAt": "2024-11-26T20:40:30Z",
+"content": "Gröger said warning strikes will take place before Dec. 9, ahead of the next round of negotiations with management over cost cuts, and threatened much more sweeping action should talks go poorly. The… [+1815 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Denver7.com"
+},
+"author": "The Associated Press",
+"title": "Biden administration loans $5.5B to build GA factory that EV maker paused",
+"description": "President Joe Biden’s administration will loan $6.6 billion to electric vehicle maker Rivian Automotive to build a Georgia factory.",
+"url": "https://www.denver7.com/decodedc/technology/biden-administration-to-loan-6-6b-to-ev-maker-rivian-to-build-georgia-factory-that-automaker-paused",
+"urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/592dcbb/2147483647/strip/true/crop/5113x2684+0+724/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F20%2Ff9%2F05a867f3415aaa0ef2b89922314e%2Fap24331146360279.jpg",
+"publishedAt": "2024-11-26T20:30:33Z",
+"content": "ATLANTA (AP) President Joe Biden's administration announced Tuesday that the U.S. Department of Energy will make a $6.6 billion loan to Rivian Automotive to build a factory in Georgia that had stalle… [+5356 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "iPhone in Canada"
+},
+"author": "IIC Deals",
+"title": "Tesla Referral Code in Canada Now Saves You $2,600 Off",
+"description": "Tesla has updated its referral program in Canada and the USA to now double the savings when you buy using a friend’s link, saving you $2,600 off, double the discount from before. The $2,600 off savings applies to the following: Model S Model X Model Y Unfortu…",
+"url": "https://www.iphoneincanada.ca/2024/11/26/tesla-referral-code-in-canada-now-saves-you-2600-off/",
+"urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2017/09/iic-logo-1.svg",
+"publishedAt": "2024-11-26T20:06:05Z",
+"content": "Tesla has updated its referral program in Canada and the USA to now double the savings when you buy using a friends link, saving you $2,600 off, double the discount from before.The $2,600 off savings… [+633 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "2024-11-26T19:55:06Z",
+"content": "[Removed]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Michelle Lewis",
+"title": "California to step up with an EV rebate if Trump kills the $7,500 federal tax credit",
+"description": "California's governor has proposed offering $7,500 state EV tax rebates to residents if Trump kills the federal EV tax credit.",
+"url": "http://electrek.co/2024/11/26/california-ev-rebate-trump-kills-7500-federal-tax-credit/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/France-EV-subsidy-Tesla.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2024-11-26T19:40:09Z",
+"content": "Source: Tesla\r\nCalifornia has proposed offering $7,500 state EV tax rebates to residents if Trump kills the federal EV tax credit, Governor Gavin Newsom (D-CA) announced today.\r\nNovember 26 update: T… [+3094 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Reinette LeJeune",
+"title": "EcoFlow Black Friday takes 60% off DELTA 2 at $399, Segway Ninebot MAX G30LP 50% off, Rexing EV chager adapters, Camplux, more",
+"description": "We’ve got some big Black Friday sales change-ups for today’s Green Deals, with EcoFlow adding a bunch more savings opportunities to its event before ending later in the week, with the DELTA 2 Portable Power Station, for example, dropping to a new $399 low, am…",
+"url": "http://electrek.co/2024/11/26/ecoflow-black-friday-segway-max-g30lp-rexing/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/11/EcoFlow-Black-Friday-sale-promo-FI.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2024-11-26T19:11:54Z",
+"content": "We’ve got some big Black Friday sales change-ups for today’s Green Deals, with EcoFlow adding a bunch more savings opportunities to its event before ending later in the week, with the DELTA 2 Portabl… [+14145 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "teslarati.com",
+"title": "U.S. Congressman warns against Tesla exclusion from CA’s proposed EV incentive",
+"description": "Recent reports have revealed that California Gov. Gavin Newsom is pondering the creation of a new EV incentive for car buyers in the state if President-elect Donald Trump eliminates the federal tax credit for electric cars. There was only one caveat—the CA go…",
+"url": "https://biztoc.com/x/f39151ab05ac5dda",
+"urlToImage": "https://biztoc.com/cdn/f39151ab05ac5dda_s.webp",
+"publishedAt": "2024-11-26T19:07:46Z",
+"content": "Recent reports have revealed that California Gov. Gavin Newsom is pondering the creation of a new EV incentive for car buyers in the state if President-elect Donald Trump eliminates the federal tax c… [+150 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "Samantha Kelly",
+"title": "NASA's Search for Life: SpaceX to Launch Dragonfly Mission to Saturn's Moon",
+"description": "The mission aims to help NASA determine whether Titan's conditions could be suitable for supporting life.",
+"url": "https://www.cnet.com/science/space/nasas-search-for-life-spacex-to-launch-dragonfly-mission-to-saturns-moon/",
+"urlToImage": "https://www.cnet.com/a/img/resize/f3dc71bc22875d1a7c9da126ae49c68a07921c94/hub/2024/11/26/ac19b515-f6d6-450a-bcab-12d59af494bc/gettyimages-1088373696.jpg?auto=webp&fit=crop&height=675&width=1200",
+"publishedAt": "2024-11-26T19:07:46Z",
+"content": "NASA is teaming up with SpaceX to provide launch services for its upcoming mission to explore Saturn's moon Titan.\r\nThe space agency announced a $256.6 million contract with SpaceX to support the lau… [+2036 chars]"
+}
+]
+}
